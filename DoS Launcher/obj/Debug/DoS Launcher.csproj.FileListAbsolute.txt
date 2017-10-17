@@ -1,0 +1,6 @@
+D:\Programming\C#\DoS Launcher\bin\Debug\DoS Launcher.exe.config
+D:\Programming\C#\DoS Launcher\bin\Debug\DoS Launcher.exe
+D:\Programming\C#\DoS Launcher\bin\Debug\DoS Launcher.pdb
+D:\Programming\C#\DoS Launcher\obj\Debug\DoS Launcher.csprojResolveAssemblyReference.cache
+D:\Programming\C#\DoS Launcher\obj\Debug\DoS Launcher.exe
+D:\Programming\C#\DoS Launcher\obj\Debug\DoS Launcher.pdb
