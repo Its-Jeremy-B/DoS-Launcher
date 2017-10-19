@@ -4,3 +4,9 @@ D:\Programming\C#\Ex Icarus Server\TRoTS DoS Launcher\bin\Release\DoS Launcher.p
 D:\Programming\C#\Ex Icarus Server\TRoTS DoS Launcher\obj\Release\DoS Launcher.csprojResolveAssemblyReference.cache
 D:\Programming\C#\Ex Icarus Server\TRoTS DoS Launcher\obj\Release\DoS Launcher.exe
 D:\Programming\C#\Ex Icarus Server\TRoTS DoS Launcher\obj\Release\DoS Launcher.pdb
+D:\Programming\C#\DoS-Launcher\DoS Launcher\bin\Release\DoS Launcher.exe.config
+D:\Programming\C#\DoS-Launcher\DoS Launcher\obj\Release\DoS Launcher.exe
+D:\Programming\C#\DoS-Launcher\DoS Launcher\obj\Release\DoS Launcher.pdb
+D:\Programming\C#\DoS-Launcher\DoS Launcher\bin\Release\DoS Launcher.exe
+D:\Programming\C#\DoS-Launcher\DoS Launcher\bin\Release\DoS Launcher.pdb
+D:\Programming\C#\DoS-Launcher\DoS Launcher\obj\Release\DoS Launcher.csprojResolveAssemblyReference.cache
